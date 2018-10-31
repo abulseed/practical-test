@@ -1,0 +1,12 @@
+{
+  "name": "question1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node solution.js \"Mary   had   a little    lamb\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
